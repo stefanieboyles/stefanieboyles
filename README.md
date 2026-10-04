@@ -1,16 +1,22 @@
-## Hi there 👋
+# Stefanie Boyles, PhD Candidate, BA, BSN, RN
 
-<!--
-**stefanieboyles/stefanieboyles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Candidate in Nursing at the University of Arizona studying maternal
+cardiovascular adaptation across pregnancy.
 
-Here are some ideas to get you started:
+My research focuses on the integration of wearable-derived physiology,
+blood pressure, and intensive longitudinal data to characterize maternal
+autonomic and cardiovascular adaptation and emerging hypertensive risk.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research interests
+- Maternal cardiovascular physiology
+- Pregnancy and hypertensive disorders
+- Wearable and digital biomarkers
+- Pulse rate variability
+- Ecological momentary assessments
+- Intensive longitudinal data
+- R and Python for physiologic data analysis
+
+### Current work
+I'm currently developing analytic workflows for continuous wearable,
+home blood pressure, and ecological momentary assessment data collected
+across pregnancy.
